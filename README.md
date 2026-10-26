@@ -83,8 +83,6 @@ As imagens abaixo apresentam interfaces do CondoControlAI em ambiente demonstrat
 > Algumas informações foram anonimizadas para preservar a privacidade.
   
 
-Imagens demonstrativas das interfaces poderão ser adicionadas após revisão para remoção de dados pessoais e informações sensíveis.
-
 ## 👨‍💻 Desenvolvimento
 
 Projeto desenvolvido por **Thiago Almeida Teles**, envolvendo análise de requisitos, modelagem de dados, desenvolvimento Android, backend, interfaces web, integrações e testes.
