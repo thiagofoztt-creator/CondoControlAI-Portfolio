@@ -64,23 +64,21 @@ O projeto contempla mecanismos de autenticação, autorização por perfil, sepa
 O desenvolvimento inclui atividades de testes funcionais, testes de API, validação de regras de negócio e análise de registros técnicos.
 
 
+
 ## 📷 Demonstrações do aplicativo
 
-As imagens abaixo apresentam interfaces do CondoControlAI em ambiente demonstrativo.
+Confira algumas interfaces do CondoControlAI.
 
-### Tela de abertura
+<p align="center">
+  <img src="imagens/condocontrolai_01.jpg" width="220" alt="Tela de abertura do CondoControlAI" />
+  <img src="imagens/condocontrolai_02.jpg" width="220" alt="Tela de login do CondoControlAI" />
+  <img src="imagens/condocontrolai_19.jpg" width="220" alt="Relatório operacional do CondoControlAI" />
+</p>
 
-![Tela de abertura do CondoControlAI](imagens/condocontrolai_01.jpg)
+<p align="center"><strong>Abertura | Login | Relatório operacional</strong></p>
 
-### Tela de login
-
-![Tela de login do CondoControlAI](imagens/condocontrolai_02.jpg)
-
-### Relatório operacional
-
-![Relatório operacional do CondoControlAI](imagens/condocontrolai_19.jpg)
-
-> Algumas informações foram anonimizadas para preservar a privacidade.
+> Capturas demonstrativas. Informações pessoais devem ser removidas antes da publicação.
+  
   
 
 ## 👨‍💻 Desenvolvimento
