@@ -69,11 +69,48 @@ O desenvolvimento inclui atividades de testes funcionais, testes de API, valida�
 
 Confira algumas interfaces do CondoControlAI.
 
-<p align="center">
-  <img src="imagens/condocontrolai_01.jpg" width="220" alt="Tela de abertura do CondoControlAI" />
-  <img src="imagens/condocontrolai_02.jpg" width="220" alt="Tela de login do CondoControlAI" />
-  <img src="imagens/condocontrolai_19.jpg" width="220" alt="Relatório operacional do CondoControlAI" />
+
+<h2>📱 Telas do Aplicativo Android</h2>
+
+<p>
+  Confira algumas interfaces desenvolvidas
+  para o CondoControlAI.
 </p>
+
+<table>
+  <tr>
+    <td align="center">
+      <img
+        src="imagens/condocontrolai_01.jpg"
+        width="210"
+        alt="Tela de abertura do CondoControlAI"
+      />
+      <p><strong>01 — Tela de Abertura</strong></p>
+      <p>Identidade visual do aplicativo.</p>
+    </td>
+    <td align="center">
+      <img
+        src="imagens/condocontrolai_02.jpg"
+        width="210"
+        alt="Tela de login do CondoControlAI"
+      />
+      <p><strong>02 — Autenticação</strong></p>
+      <p>Acesso ao sistema por usuário e senha.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img
+        src="imagens/condocontrolai_19.jpg"
+        width="230"
+        alt="Relatório operacional do CondoControlAI"
+      />
+      <p><strong>03 — Relatório Operacional</strong></p>
+      <p>Indicadores da gestão condominial.</p>
+    </td>
+  </tr>
+</table>
+
 
 <p align="center"><strong>Abertura | Login | Relatório operacional</strong></p>
 
