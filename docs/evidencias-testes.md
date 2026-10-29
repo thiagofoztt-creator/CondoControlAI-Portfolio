@@ -81,3 +81,27 @@ A ausência de um anexo não significa necessariamente que o teste não foi exec
 ---
 
 **CondoControlAI — Portfólio técnico e documentação de QA. Código-fonte privado.**
+
+## Situação atual das evidências
+
+A documentação pública apresenta os cenários
+de testes, os resultados esperados e os
+critérios de homologação do CondoControlAI.
+
+Os registros originais de execução, logs de
+compilação e relatórios de testes ainda não
+foram anexados a este repositório.
+
+Por esse motivo:
+
+- Os casos de teste documentados não são
+  apresentados como automaticamente aprovados.
+- Resultados históricos permanecem pendentes
+  de comprovação documental.
+- As imagens das interfaces representam
+  demonstrações visuais do aplicativo.
+- Novas evidências serão adicionadas somente
+  após verificação e remoção de dados sensíveis.
+
+**Status geral das evidências públicas:**
+Pendente de comprovação documental.
