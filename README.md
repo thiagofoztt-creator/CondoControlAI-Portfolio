@@ -64,6 +64,43 @@ O projeto contempla mecanismos de autenticação, autorização por perfil, sepa
 O desenvolvimento inclui atividades de testes funcionais, testes de API, validação de regras de negócio e análise de registros técnicos.
 
 
+## 📚 Documentação Técnica
+
+O CondoControlAI possui documentação pública
+sobre sua arquitetura, funcionalidades e
+processos de qualidade de software.
+
+### 🏗️ Arquitetura do Sistema
+
+[Consultar Arquitetura](docs/arquitetura.md)
+
+Apresenta a integração entre aplicativo Android,
+painel web, API REST PHP, banco MySQL,
+autenticação JWT e arquitetura multi-tenant.
+
+### ⚙️ Funcionalidades
+
+[Consultar Funcionalidades](docs/funcionalidades.md)
+
+Descreve os módulos de moradores, encomendas,
+visitantes, veículos, funcionários, reservas,
+ocorrências, inteligência artificial e auditoria.
+
+### 🧪 Testes e Homologação
+
+[Consultar Testes e Homologação](docs/testes-e-homologacao.md)
+
+Documenta a estratégia de QA, cenários de
+testes de API, validação Android, controle
+de permissões, isolamento multi-tenant
+e critérios de aceite.
+
+---
+
+**Nota:** Esta documentação apresenta o escopo
+técnico do projeto. O código-fonte original
+permanece privado.
+
 
 ## 📷 Demonstrações do aplicativo
 
